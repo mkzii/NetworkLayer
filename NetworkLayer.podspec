@@ -8,7 +8,7 @@
 
 Pod::Spec.new do |s|
   s.name             = 'NetworkLayer'
-  s.version          = '0.0.3'
+  s.version          = '0.0.4'
   s.summary          = 'This iOS framework for handler login via network.'
 
 # This description is used to generate tags and improve search results.
